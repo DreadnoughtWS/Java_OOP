@@ -1,0 +1,5 @@
+
+M001 Java_Abstract 200000 100000 computer_science
+M002 Model_Regresi 200000 100000 math
+M003 Kerangka_Tulang 200000 100000 biology
+M004 Java_Interface 200000 100000 computer_science

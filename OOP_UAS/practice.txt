@@ -1,0 +1,3 @@
+P001 Soal_Computer_Science_UAS 200000 100000
+P002 Soal_Computer_Science_UTS 200000 100000
+P003 Soal_Computer_Science_Quiz 200000 100000
